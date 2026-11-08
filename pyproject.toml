@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-clone-output"
+version = "1.0.0"
+description = 'Magik Clone Output'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-clone-output"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Clone Output"
